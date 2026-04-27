@@ -106,9 +106,9 @@ vaderSentiment
 - Some translation and visualization steps may take time depending on the runtime and dataset size.
 - The project is well-suited for a GitHub portfolio or academic submission.
 
-## 👤 Author
+## 👤 Authors
 
-**Akash Senigarapu**
+**Akash Senigarapu    and**
 **Chidvilas Reddy**
 
 ---
