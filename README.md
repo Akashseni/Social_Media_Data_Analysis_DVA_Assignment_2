@@ -4,6 +4,9 @@
 A data visualization and text analytics project built on the **Reddit Comments Dataset**.  
 This notebook explores a large-scale Reddit corpus, cleans the text, detects languages, translates non-English comments, extracts features, analyzes sentiment, and visualizes the data using techniques such as **TF-IDF**, **t-SNE**, and **K-Means clustering**. The notebook works on a **1 million comment dataset** with selected samples for some compute-heavy steps like language detection, translation, TF-IDF, and t-SNE. fileciteturn7file4
 
+# Mentor 
+P.Srikanth(Asst.Professor)
+
 ## 📌 Dataset
 
 - **Source:** [1 Million Reddit Comments from 40 Subreddits](https://www.kaggle.com/datasets/smagnan/1-million-reddit-comments-from-40-subreddits)
